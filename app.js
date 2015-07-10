@@ -29,7 +29,7 @@ var employees = [
 	//community relations
 	new Employee('Cindy', 963),
 	new Employee('Kristin', 964),
-	new Employee('CMC', 953),
+	new Employee('Monica', 953),
 	//sales
 	new Employee('Garrett', 970),
 	new Employee('Mel', 971),
