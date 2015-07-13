@@ -29,15 +29,15 @@ var employees = [
 	//community relations
 	new Employee('Cindy', 963),
 	new Employee('Kristin', 964),
-	new Employee('Monica', 953),
+	new Employee('Monica', 952),
 	//sales
 	new Employee('Garrett', 970),
 	new Employee('Mel', 971),
 	new Employee('Thresa', 950),
 	new Employee('Debbie', 973),
 	new Employee('Julee', 974),
-	new Employee('Rachel', 951),
-	new Employee('Tom', 952),
+	new Employee('Rachel', 960),
+	new Employee('Tom', 951),
 	//operations
 	new Employee('Dylan', 966),
 	new Employee('Michelle', 968),
@@ -46,10 +46,10 @@ var employees = [
 	new Employee('Suzy', 959),
 	//support
 	new Employee('Laurie', 962),
-	new Employee('Elena', 960),
+	new Employee('Lead Caller', 953),
 	new Employee('Eric', 965),
 	new Employee('Dave Hm', 967)
-	]
+	];
 
 
 	function Config(ext){
